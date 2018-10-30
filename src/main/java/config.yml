@@ -1,0 +1,12 @@
+snowball:
+  lobby:
+    world: snowball
+    x: 1337
+    y: 120
+    z: 1337
+parkour:
+  lobby:
+    world: world
+    x: -254
+    y: 152
+    z: 278

@@ -1,0 +1,11 @@
+name: Minigames
+main: me.lowlauch.minigames.Main
+version: 1.0
+author: lowlauch
+commands:
+  snowball:
+    description: The main Snowball command
+    usage:
+  parkour:
+    description: The main Parkour command
+    usage:
